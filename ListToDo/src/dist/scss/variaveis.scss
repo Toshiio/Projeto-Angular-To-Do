@@ -1,0 +1,16 @@
+//Cores principais
+$first-color: #AF7EEB;
+$second-color: #939CBD;
+$third-color: #FFFF;
+
+// Cores do background
+$first-background-color: #E3E9FF;
+$second-background-color: $third-color;
+$third-background-color: $first-color;
+
+// Cores de texto
+$first-text-color: $second-color;
+$second-text-color: $third-color;
+
+// Cor do botão
+$button-color: #FF002E;
