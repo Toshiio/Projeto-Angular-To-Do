@@ -13,6 +13,10 @@ body{
     background: $first-background-color;
 }
 
+ul{
+    list-style: none;
+}
+
 // Classes
 .container{
     width: 350px;
